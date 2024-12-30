@@ -1,0 +1,9 @@
+[
+    { "id":12, "name":"CLASSIC OXFORDS", "price":"499","pic":"https://wallpapercave.com/wp/wp2595321.jpg"},
+    { "id":13, "name":"CHELSEA BOOTS", "price":"299", "pic":"https://wallpapercave.com/wp/wp2971398.jpg"},
+    { "id":14, "name":"DEARBY SHOES", "price":"399","pic":"https://wallpapercave.com/w400/wp2896922.jpg"},
+    { "id":15, "name":"BROGUES", "price":"599","pic":"https://wallpapercave.com/wp/wp2595332.png"},
+    { "id":16, "name":"SNEAKERS", "price":"299","pic":"https://wallpapercave.com/w400/wp2896963.jpg"},
+    { "id":17, "name":"MONK STRAP SHOES", "price":"799","pic":"https://wallpapercave.com/w400/wp2595323.jpg"}
+
+]
