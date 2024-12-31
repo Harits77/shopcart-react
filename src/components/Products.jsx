@@ -28,7 +28,7 @@ const Products = () => {
 const [product] = useState(data)
   
 return (
-    <div className=' bg-slate-800 w-full pb-12 pt-5'>
+    <div className=' bg-slate-800 w-full pb-12'>
         <div className='md:grid grid-cols-3 pl-9'>
             {product.map((product)=>(
             <div key={product.id} className="w-76 md:w-80 mt-10 ml-12 pb-5 rounded hover:scale-105  transform transition duration-300 bg-white">
