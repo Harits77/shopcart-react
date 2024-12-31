@@ -9,7 +9,7 @@ const Home = () => {
     <div>
     <div className='img3' style={
       {backgroundImage:`url(${img3})`, 
-      height:'600px',
+      height:'660px',
       backgroundSize: 'cover',
       backgroundPosition: 'center', 
       backgroundRepeat: 'no-repeat', 
