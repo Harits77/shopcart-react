@@ -9,7 +9,7 @@ const Contact = () => {
       </p>
 
       <form className="w-full max-w-md">
-        <div className="mb-4">
+        <div className="mb-7">
           <label htmlFor="name" className="block text-gray-400 mb-2">Name</label>
           <input
             type="text"
@@ -19,7 +19,7 @@ const Contact = () => {
             required
           />
         </div>
-        <div className="mb-4">
+        <div className="mb-7">
           <label htmlFor="email" className="block text-gray-400 mb-2">Email</label>
           <input
             type="email"
@@ -29,7 +29,7 @@ const Contact = () => {
             required
           />
         </div>
-        <div className="mb-6">
+        <div className="mb-7">
           <label htmlFor="message" className="block text-gray-400 mb-2">Message</label>
           <textarea
             id="message"
