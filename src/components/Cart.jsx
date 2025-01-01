@@ -35,18 +35,18 @@ const Cart = () => {
 
   
   return (
-    <div className='p-5 bg-slate-900 text-white'>
+    <div className='p-5 bg-slate-900 text-white '>
        
       {
           cart.length === 0 ? (
             <p>Your cart is empty</p> 
               ) :
         cart.map((product)=>(
-          <div className='flex space-x-5 border-2 mt-5 ' key={product.id}>
+          <div className='flex space-x-5 border-2 mt-5 card1 ' key={product.id}>
           <div className=' p-6 md:p-5'>
           <img className='w-40 h-28 mt-2 object-cover' src={product.pic} alt="img" />
         </div>
-        <div className='md:p-4 pt-6'>
+        <div className='md:p-4 pt-6 data'>
            <h3 className='font-bold'>Product Name : <span >{product.name}</span></h3>
            <p className='font-bold mt-1'>Price RS: <span >{product.price}</span></p>
 

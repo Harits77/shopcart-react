@@ -3,13 +3,13 @@ import img2 from '../assets/Images/pic2.jpg';
 
 const About = () => {
   return (
-    <div className="about flex flex-col lg:flex-row justify-between items-center p-10 pt-20 pb-32 bg-slate-700 gap-8">
+    <div className="about flex flex-col lg:flex-row justify-between items-center p-10 pt-20 pb-32 bg-slate-700 gap-12">
       <div className="w-full lg:w-1/2 flex justify-center">
         <img
           src={img2}
           alt="About Us"
-          className="rounded-lg shadow-lg"
-          style={{ height: '300px', width: '400px', objectFit: 'cover' }}
+          className="rounded-lg shadow-lg img2"
+          style={{ height: '400px', width: '600px', backgroundSize:"cover" }}
         />
       </div>
 

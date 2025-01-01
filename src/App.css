@@ -22,6 +22,13 @@ nav {
    body{
     width:920px;
    }
+   nav{
+      padding: 20px;
+   }
+   .h1{
+     font-size:30px;
+     margin-top: 15px;
+   }
    .card{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -29,9 +36,66 @@ nav {
    }
    .pic{
       width: 380px;
+      height: 250px;
    }
    .btn{
     width: 335px;
+    height: 50px;
    }
-   
+   .card1{
+      height: 250px;
+      font-size:larger;
+   }
+   .card1 img{
+      height: 190px;
+      width: 300px;
+   }
+   .card1 .data{
+       margin-top: 10px;
+    }
+    .card1 p{
+      margin-top: 10px;
+    }
+    .card1 button{
+      margin-top: 15px;
+    }
+    .card1 span{
+      margin-top: 15px;
+    }
+    .icon{
+      height: 10px;
+    }
+    .about{
+      padding-top: 50px;
+        
+    }
+    .about p{
+      font-size: 25px;
+    }
+    .about ul li{
+      font-size: 23px;
+      padding: 5px;
+    }
+    .contact{
+      padding-top: 200px;
+      padding-bottom: 182px;
+
+    }
+    .contact input{
+      padding: 20px;
+      width: 500px;
+    }
+    .contact textarea{
+      width: 500px;
+    }
+    .contact button{
+      width: 500px;
+      height: 50px;
+    }
+    .contact p{
+      font-size: 25px;
+    }
+    .contact form{
+      margin-left: -50px;
+    }
 }
