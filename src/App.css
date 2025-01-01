@@ -39,7 +39,7 @@ nav {
       height: 250px;
    }
    .btn{
-    width: 345px;
+    width: 348px;
     height: 50px;
    }
    .product{
@@ -101,6 +101,7 @@ nav {
     }
     .contact textarea{
       width: 500px;
+      font-size:20px;
     }
     .contact button{
       width: 500px;
