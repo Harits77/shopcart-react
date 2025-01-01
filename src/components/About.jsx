@@ -13,19 +13,19 @@ const About = () => {
         />
       </div>
 
-      <div className="text-3xl text-white font-bold space-y-9 text-center lg:text-left">
+      <div className="text-3xl text-white font-bold space-y-10 text-center lg:text-left">
         <h1>Welcome to JumpFit Shoes!</h1>
         <p className="text-lg text-gray-300 font-normal">
           At JumpFit Shoes, we strive to bring you the best in style, comfort, and affordability. From casual sneakers to formal footwear, we have a wide range of options to suit every occasion.
         </p>
-        <h2 className="mt-4">Why Choose Us?</h2>
-        <ul className="list-disc list-inside space-y-2 text-lg">
+        <h2 className="mt-7">Why Choose Us?</h2>
+        <ul className="list-disc list-inside space-y-5 text-lg">
           <li>Free shipping on orders over $50.</li>
           <li>Hassle-free 30-day return policy.</li>
           <li>Customer support available 24/7.</li>
           <li>Exclusive deals and seasonal discounts.</li>
         </ul>
-        <p className="text-lg text-gray-300 font-normal mt-4">
+        <p className="text-lg text-gray-300 font-normal mt-7">
           Step into a world of quality and convenience at ShoeShop. Your perfect pair is just a click away!
         </p>
       </div>
