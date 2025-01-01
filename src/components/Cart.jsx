@@ -39,7 +39,7 @@ const Cart = () => {
        
       {
           cart.length === 0 ? (
-            <p>Your cart is empty</p> 
+            <p className='text-2xl'>Your cart is empty</p> 
               ) :
         cart.map((product)=>(
           <div className='flex space-x-5 border-2 mt-5 card1 ' key={product.id}>
