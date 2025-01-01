@@ -35,15 +35,15 @@ nav {
     margin-right: 50px;
    }
    .pic{
-      width: 420px;
+      width: 400px;
       height: 250px;
    }
    .btn{
-    width: 335px;
+    width: 345px;
     height: 50px;
    }
    .product{
-    margin-left: -20px;
+    margin-left: -50px;
     padding-top:50px;
    }
 
@@ -83,7 +83,7 @@ nav {
       padding: 20px;
     }
     .contact{
-      padding-top: 270px;
+      padding-top: 250px;
       padding-bottom: 500px;
     }
     .contact h1{
@@ -93,13 +93,19 @@ nav {
     .contact input{
       padding: 20px;
       width: 500px;
+      font-size: 20px;
+    }
+    .contact label{
+      font-size: 25px;
+      font-weight: bold;
     }
     .contact textarea{
       width: 500px;
     }
     .contact button{
       width: 500px;
-      height: 50px;
+      height: 60px;
+      font-size: 20px;
     }
     .contact p{
       font-size: 25px;
