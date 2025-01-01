@@ -28,7 +28,7 @@ const Products = () => {
 
   return (
     <div className="bg-slate-800 w-full pb-32">
-       <h1 className='text-white font-bold text-5xl text-center pt-12'>Products</h1> 
+       <h1 className='text-white font-bold text-4xl text-center pt-12'>Products</h1> 
       <div className="product hidden md:grid grid-cols-3 pl-9 card">
         {product.map((product) => (
           <div
