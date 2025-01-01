@@ -71,8 +71,8 @@ nav {
       height: 10px;
     }
     .about{
-      padding-top: 150px;
-      padding-bottom: 300px;
+      padding-top: 350px;
+      padding-bottom: 400px;
     }
     .about p{
       font-size: 25px;
@@ -83,7 +83,7 @@ nav {
     }
     .contact{
       padding-top: 250px;
-      padding-bottom: 450px;
+      padding-bottom: 500px;
 
     }
     .contact input{
