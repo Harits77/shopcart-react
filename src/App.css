@@ -35,7 +35,7 @@ nav {
     margin-right: 50px;
    }
    .pic{
-      width: 380px;
+      width: 400px;
       height: 250px;
    }
    .btn{
@@ -71,8 +71,8 @@ nav {
       height: 10px;
     }
     .about{
-      padding-top: 200px;
-      padding-bottom: 200px;
+      padding-top: 120px;
+      padding-bottom: 220px;
     }
     .about p{
       font-size: 25px;
@@ -85,6 +85,10 @@ nav {
     .contact{
       padding-top: 250px;
       padding-bottom: 500px;
+    }
+    .contact h1{
+      font-size: 50px;
+      padding-bottom: 20px;
     }
     .contact input{
       padding: 20px;
