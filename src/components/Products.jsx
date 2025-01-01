@@ -8,7 +8,7 @@ import 'swiper/css/navigation';
 
 const Products = () => {
   const { cart, setcart } = useContext(MyContext);
-
+  
   const addcart = (product) => {
     const existingProduct = cart.find((item) => item.id === product.id);
     if (existingProduct) {
@@ -28,8 +28,8 @@ const Products = () => {
 
   return (
     <div className="bg-slate-800 w-full pb-32">
-        
-      <div className="hidden md:grid grid-cols-3 pl-9 card">
+       <h1 className='text-white font-bold text-5xl text-center pt-12'>Products</h1> 
+      <div className="product hidden md:grid grid-cols-3 pl-9 card">
         {product.map((product) => (
           <div
             key={product.id}
