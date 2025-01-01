@@ -4,6 +4,7 @@ import img2 from '../assets/Images/pic2.jpg';
 const About = () => {
   return (
     <div className="about flex flex-col lg:flex-row justify-between items-center p-10 pt-20 pb-32 bg-slate-700 gap-12">
+      <h1 className='text-white text-4xl font-bold md:hidden'>About Us</h1>
       <div className="w-full lg:w-1/2 flex justify-center">
         <img
           src={img2}
