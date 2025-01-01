@@ -48,7 +48,7 @@ const Contact = () => {
       </form>
 
       <div className="mt-16 text-center">
-        <p className="text-gray-400">Email: support@shoeshop.com</p>
+        <p className="text-gray-400">Email: support@JumpFitShoes.com</p>
         <p className="text-gray-400">Phone: +1 234 567 890</p>
       </div>
     </div>
