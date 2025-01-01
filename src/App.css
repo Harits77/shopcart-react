@@ -21,6 +21,8 @@ nav {
 @media(max-width: 600px) {
    body{
     width:920px;
+    box-sizing:border-box;
+    margin-bottom:0; 
    }
    nav{
       padding: 20px;
