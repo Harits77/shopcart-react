@@ -41,13 +41,13 @@ const Contact = () => {
         </div>
         <button
           type="submit"
-          className="w-full bg-blue-500 py-2 rounded text-white font-bold hover:bg-blue-600 transition"
+          className="w-full bg-blue-500 py-2 mt-5 rounded text-white font-bold hover:bg-blue-600 transition"
         >
           Send Message
         </button>
       </form>
 
-      <div className="mt-10 text-center">
+      <div className="mt-16 text-center">
         <p className="text-gray-400">Email: support@shoeshop.com</p>
         <p className="text-gray-400">Phone: +1 234 567 890</p>
       </div>
