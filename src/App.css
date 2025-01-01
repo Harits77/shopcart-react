@@ -45,6 +45,7 @@ nav {
    .product{
     margin-left: -50px;
     padding-top:50px;
+    padding-bottom:auto;
    }
 
    .card1{
@@ -72,7 +73,7 @@ nav {
     }
     .about{
       padding-top: 350px;
-      padding-bottom: 400px;
+      padding-bottom: 350px;
     }
     .about p{
       font-size: 25px;
@@ -82,8 +83,8 @@ nav {
       padding: 5px;
     }
     .contact{
-      padding-top: 250px;
-      padding-bottom: 500px;
+      padding-top: 350px;
+      padding-bottom: 550px;
 
     }
     .contact input{
