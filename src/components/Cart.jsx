@@ -71,7 +71,7 @@ const Cart = () => {
         ))
       }
      <div className='py-14'>
-      <p className='font-bold text-2xl'>Total Amount RS : {total} </p>
+      <p className='font-bold text-3xl'>Total Amount RS : {total} </p>
     </div>
     </div>
   ) 
