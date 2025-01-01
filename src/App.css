@@ -21,8 +21,6 @@ nav {
 @media(max-width: 600px) {
    body{
     width:920px;
-    box-sizing:border-box;
-    margin-bottom:0; 
    }
    nav{
       padding: 20px;
@@ -47,7 +45,6 @@ nav {
    .product{
     margin-left: -50px;
     padding-top:50px;
-    padding-bottom:auto;
    }
 
    .card1{
@@ -74,20 +71,20 @@ nav {
       height: 10px;
     }
     .about{
-      padding-top: 350px;
-      padding-bottom: 350px;
+      padding-top: 150px;
+      padding-bottom: 200px;
     }
     .about p{
       font-size: 25px;
+      padding: 20px;
     }
     .about ul li{
       font-size: 23px;
-      padding: 5px;
+      padding: 20px;
     }
     .contact{
-      padding-top: 350px;
-      padding-bottom: 550px;
-
+      padding-top: 250px;
+      padding-bottom: 450px;
     }
     .contact input{
       padding: 20px;
@@ -105,5 +102,6 @@ nav {
     }
     .contact form{
       margin-left: -50px;
+      padding-top: 40px;
     }
 }
