@@ -27,7 +27,7 @@ const Products = () => {
   const [product] = useState(data);
 
   return (
-    <div className="bg-slate-800 w-full pb-32">
+    <div className="bg-slate-800 w-full pb-32 products">
        <h1 className='text-white font-bold text-4xl text-center pt-12'>Products</h1> 
       <div className="product hidden md:grid grid-cols-3 pl-9 card">
         {product.map((product) => (
