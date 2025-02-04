@@ -49,6 +49,9 @@ nav {
    .product{
     padding-top:50px;
    }
+  .products h1{
+   font-size:45px;
+  }
    .card .body{
     font-size: 25px;
    }
