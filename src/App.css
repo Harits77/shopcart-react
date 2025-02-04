@@ -104,7 +104,7 @@ nav {
     }
     .contact input{
       padding: 20px;
-      width: 500px;
+      width: 550px;
       font-size: 20px;
     }
     .contact label{
@@ -112,11 +112,11 @@ nav {
       font-weight: bold;
     }
     .contact textarea{
-      width: 500px;
+      width: 550px;
       font-size: 20px;
     }
     .contact button{
-      width: 500px;
+      width: 550px;
       height: 70px;
       font-size: 30px;
     }
