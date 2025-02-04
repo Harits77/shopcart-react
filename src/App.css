@@ -29,14 +29,14 @@ nav {
    nav ul li{
     font-size: 60px;
    }
-   .h1{
+   h1{
      font-size:30px;
      margin-top: 15px;
    }
    .card{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin-right: 50px;
+    margin-right: 70px;
    }
    .pic{
       width: 400px;
