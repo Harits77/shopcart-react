@@ -36,7 +36,7 @@ nav {
    .card{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin-right: 60px;
+    margin-right: 50px;
    }
    .pic{
       width: 400px;
