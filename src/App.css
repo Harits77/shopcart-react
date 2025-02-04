@@ -24,6 +24,10 @@ nav {
    }
    nav{
       padding: 20px;
+      border-bottom: 2px solid white;
+   }
+   nav ul li{
+    font-size: 60px;
    }
    .h1{
      font-size:30px;
@@ -43,10 +47,15 @@ nav {
     height: 50px;
    }
    .product{
-    margin-left: -20px;
+    margin-left: -50px;
     padding-top:50px;
    }
-
+   .card .body{
+    font-size: 25px;
+   }
+   .card button{
+    font-size: 25px;
+   }
    .card1{
       height: 350px;
       font-size:25px;
@@ -72,7 +81,7 @@ nav {
     }
     .about{
       padding-top: 80px;
-      padding-bottom:100px;
+      padding-bottom: 80px;
     }
     .about p{
       font-size: 25px;
@@ -83,8 +92,8 @@ nav {
       padding: 20px;
     }
     .contact{
-      padding-top: 120px;
-      padding-bottom:200px;
+      padding-top: 300px; 
+      padding-bottom: 250px;
     }
     .contact h1{
       font-size: 50px;
@@ -96,23 +105,25 @@ nav {
       font-size: 20px;
     }
     .contact label{
-      font-size: 25px;
+      font-size: 30px;
       font-weight: bold;
     }
     .contact textarea{
       width: 500px;
-      font-size:20px;
+      font-size: 20px;
     }
     .contact button{
       width: 500px;
-      height: 60px;
-      font-size: 20px;
+      height: 70px;
+      font-size: 30px;
     }
     .contact p{
-      font-size: 25px;
+      font-size: 30px;
     }
     .contact form{
       margin-left: -50px;
+    }
+    .contact form div{
       padding-top: 40px;
     }
 }
