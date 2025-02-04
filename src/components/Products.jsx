@@ -41,8 +41,8 @@ const Products = () => {
               alt="fail"
             />
             <div className="ml-5 text-xl mt-3 md:ml-4">
-              <h3 className="font-bold">{product.name}</h3>
-              <p className="pt-2 font-bold">${product.price}</p>
+              <h3 className="font-bold">Name : {product.name}</h3>
+              <p className="pt-2 font-bold">Price :  ${product.price}</p>
             </div>
             <div className="ml-4 mt-8 my-3">
               <button
