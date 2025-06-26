@@ -22,7 +22,7 @@
 | Layer     | Technology          |
 |-----------|---------------------|
 | Frontend  | React (Create React App) |
-| Styling   | CSS Modules / Plain CSS |
+| Styling   | Tailwind |
 | State     | React Hooks + useContext (optional) |
 
 ---
