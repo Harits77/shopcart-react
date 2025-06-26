@@ -1,8 +1,39 @@
-# React + Vite
+# 🛒 ShopCart - React E-Commerce Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📋 Summary
 
-Currently, two official plugins are available:
+**ShopCart** is a modern e-commerce front-end application built with **React**. It allows users to browse products, add them to a cart, and proceed to checkout. The project showcases component-based architecture and essential e-commerce features like cart management, product listings, and quantity updates — all with a clean UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Features
+
+- 🛍️ Product listings with images and descriptions
+- ➕ Add/remove products from cart
+- 🔄 Update product quantity
+- 🧮 Dynamic cart total calculation
+- 🧭 Clean UI using React components
+- ⚛️ State management with React Hooks
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer     | Technology          |
+|-----------|---------------------|
+| Frontend  | React (Create React App) |
+| Styling   | CSS Modules / Plain CSS |
+| State     | React Hooks + useContext (optional) |
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Harits77/shopcart-react.git
+cd shopcart-react
+
+# Install dependencies
+npm install
+
